@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidKotlinFundamentals-RecyclerViewFundamentals.iml" filepath="$PROJECT_DIR$/AndroidKotlinFundamentals-RecyclerViewFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Project-AndroidKotlinFundamentals-RecyclerViewFundamentals.iml" filepath="$PROJECT_DIR$/Project-AndroidKotlinFundamentals-RecyclerViewFundamentals.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewFundamentals.iml" filepath="$PROJECT_DIR$/RecyclerViewFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/RecyclerViewFundamentals-app.iml" filepath="$PROJECT_DIR$/app/RecyclerViewFundamentals-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
